@@ -1,0 +1,23 @@
+Unique IllegalOffsetException as follows.
+
+1. Segment offset=393832.08 longer than segment.length=393830
+1. Segment offset=259720.08000000002 longer than segment.length=259710
+1. Segment offset=67604.64 longer than segment.length=67600
+1. Segment offset=264292.08 longer than segment.length=264290
+1. Segment offset=364723.68 longer than segment.length=364720
+1. Segment offset=131612.64 longer than segment.length=131610
+1. Segment offset=219059.76 longer than segment.length=219050
+1. Segment offset=195437.76 longer than segment.length=195430
+1. Segment offset=267583.92 longer than segment.length=267570
+1. Segment offset=210586.32 longer than segment.length=210580
+1. Segment offset=276971.76 longer than segment.length=276960
+1. Segment offset=66111.12 longer than segment.length=66100
+1. Segment offset=179283.36000000002 longer than segment.length=179270
+1. Segment offset=264017.76 longer than segment.length=264010
+1. Segment offset=203514.96 longer than segment.length=203510
+1. Segment offset=317906.4 longer than segment.length=317900
+1. Segment offset=193212.72 longer than segment.length=193200
+1. Segment offset=156758.64 longer than segment.length=156750
+1. Segment offset=362071.92 longer than segment.length=362060
+1. Segment offset=140695.68 longer than segment.length=140690
+1. Segment offset=269412.72000000003 longer than segment.length=269400
